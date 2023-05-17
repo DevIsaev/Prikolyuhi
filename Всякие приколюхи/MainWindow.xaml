@@ -1,0 +1,17 @@
+﻿<Window x:Class="Всякие_приколюхи.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Всякие_приколюхи"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Проверка соединения к интернету" HorizontalAlignment="Left" Margin="146,10,0,0" VerticalAlignment="Top" FontSize="30"/>
+        <Button Content="Проверить" HorizontalAlignment="Left" Margin="292,360,0,0" VerticalAlignment="Top" Width="217" Height="49" FontSize="30" Click="Button_Click"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="384,65,0,0" VerticalAlignment="Top" x:Name="InfoStatus" FontSize="30"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="384,148,0,0" VerticalAlignment="Top" FontSize="16" x:Name="Info"/>
+
+
+    </Grid>
+</Window>

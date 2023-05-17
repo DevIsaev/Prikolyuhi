@@ -1,0 +1,19 @@
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Всякие приколюхи\bin\Debug\Всякие приколюхи.exe.config
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Всякие приколюхи\bin\Debug\Всякие приколюхи.exe
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Всякие приколюхи\bin\Debug\Всякие приколюхи.pdb
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Всякие приколюхи\obj\Debug\Всякие приколюхи.csproj.AssemblyReference.cache
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Всякие приколюхи\obj\Debug\MainWindow.g.cs
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Всякие приколюхи\obj\Debug\App.g.cs
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Всякие приколюхи\obj\Debug\Всякие приколюхи_MarkupCompile.cache
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Всякие приколюхи\obj\Debug\Всякие приколюхи_MarkupCompile.lref
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Всякие приколюхи\obj\Debug\MainWindow.baml
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Всякие приколюхи\obj\Debug\Всякие приколюхи.g.resources
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Всякие приколюхи\obj\Debug\Всякие_приколюхи.Properties.Resources.resources
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Всякие приколюхи\obj\Debug\Всякие приколюхи.csproj.GenerateResource.cache
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Всякие приколюхи\obj\Debug\Всякие приколюхи.csproj.CoreCompileInputs.cache
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Всякие приколюхи\obj\Debug\Всякие приколюхи.exe
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Всякие приколюхи\obj\Debug\Всякие приколюхи.pdb
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Всякие приколюхи\bin\Debug\NReco.VideoConverter.dll
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Всякие приколюхи\bin\Debug\NReco.VideoConverter.xml
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Всякие приколюхи\obj\Debug\Всякие приколюхи.csproj.SuggestedBindingRedirects.cache
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Всякие приколюхи\obj\Debug\Всякие приколюхи.csproj.CopyComplete
