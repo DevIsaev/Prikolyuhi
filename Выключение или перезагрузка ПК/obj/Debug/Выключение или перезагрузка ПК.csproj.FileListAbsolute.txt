@@ -1,0 +1,15 @@
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Выключение или перезагрузка ПК\bin\Debug\Выключение или перезагрузка ПК.exe.config
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Выключение или перезагрузка ПК\bin\Debug\Выключение или перезагрузка ПК.exe
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Выключение или перезагрузка ПК\bin\Debug\Выключение или перезагрузка ПК.pdb
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Выключение или перезагрузка ПК\obj\Debug\Выключение или перезагрузка ПК.csproj.AssemblyReference.cache
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Выключение или перезагрузка ПК\obj\Debug\MainWindow.g.cs
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Выключение или перезагрузка ПК\obj\Debug\App.g.cs
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Выключение или перезагрузка ПК\obj\Debug\Выключение или перезагрузка ПК_MarkupCompile.cache
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Выключение или перезагрузка ПК\obj\Debug\Выключение или перезагрузка ПК_MarkupCompile.lref
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Выключение или перезагрузка ПК\obj\Debug\MainWindow.baml
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Выключение или перезагрузка ПК\obj\Debug\Выключение или перезагрузка ПК.g.resources
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Выключение или перезагрузка ПК\obj\Debug\Выключение_или_перезагрузка_ПК.Properties.Resources.resources
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Выключение или перезагрузка ПК\obj\Debug\Выключение или перезагрузка ПК.csproj.GenerateResource.cache
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Выключение или перезагрузка ПК\obj\Debug\Выключение или перезагрузка ПК.csproj.CoreCompileInputs.cache
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Выключение или перезагрузка ПК\obj\Debug\Выключение или перезагрузка ПК.exe
+C:\Visual Studio Works\WPF C#\Всякие приколюхи\Выключение или перезагрузка ПК\obj\Debug\Выключение или перезагрузка ПК.pdb

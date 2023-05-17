@@ -1,0 +1,15 @@
+﻿<Window x:Class="Выключение_или_перезагрузка_ПК.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Выключение_или_перезагрузка_ПК"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="184.091" Width="513.636">
+    <Grid>
+        <Label Content="Выключение или перезагрузка ПК" HorizontalAlignment="Left" Margin="0,10,0,0" VerticalAlignment="Top" FontSize="30" Width="506"/>
+        <Button Content="Вырубить ПК" HorizontalAlignment="Left" Margin="0,60,0,0" VerticalAlignment="Top" Width="226" Height="81" FontSize="30" x:Name="ShutDown" Click="ShutDown_Click"/>
+        <Button Content="Перезапустить" HorizontalAlignment="Left" Margin="267,60,0,0" VerticalAlignment="Top" Width="239" Height="81" FontSize="30" x:Name="Restart" Click="Restart_Click"/>
+
+    </Grid>
+</Window>
